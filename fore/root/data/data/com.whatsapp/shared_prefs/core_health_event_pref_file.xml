@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="total_cold_start_count_pref" value="1" />
+    <int name="warm_start_count_pref" value="2" />
+    <int name="last_warm_start_time_min" value="29021130" />
+    <int name="last_cold_start_time_min" value="29021060" />
+</map>

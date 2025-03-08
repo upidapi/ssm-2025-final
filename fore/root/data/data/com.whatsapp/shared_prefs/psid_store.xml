@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="248614979">{&quot;psIdValue&quot;:&quot;dd513682-3c27-4ba6-b4ad-0bebc2f3a34b&quot;,&quot;rotationInDays&quot;:1,&quot;lastRotationTimeUtcDay&quot;:20153,&quot;beaconEvtNumber&quot;:0,&quot;beaconUpdateDay&quot;:20153}</string>
+    <string name="216763284">{&quot;psIdValue&quot;:&quot;1a6d2893-5fc4-4a11-a568-1f3b42666455&quot;,&quot;rotationInDays&quot;:30,&quot;lastRotationTimeUtcDay&quot;:20153,&quot;beaconEvtNumber&quot;:0,&quot;beaconUpdateDay&quot;:20153}</string>
+    <string name="191000728">{&quot;psIdValue&quot;:&quot;6c742633-a1c9-45a9-bcca-37425719d831&quot;,&quot;rotationInDays&quot;:30,&quot;lastRotationTimeUtcDay&quot;:20153,&quot;beaconEvtNumber&quot;:0,&quot;beaconUpdateDay&quot;:20153}</string>
+    <string name="113760892">{&quot;psIdValue&quot;:&quot;cc68768b-5ea7-4b00-8520-26a2b84816c2&quot;,&quot;rotationInDays&quot;:-1,&quot;lastRotationTimeUtcDay&quot;:20153,&quot;beaconEvtNumber&quot;:0,&quot;beaconUpdateDay&quot;:20153}</string>
+    <string name="37887164">{&quot;psIdValue&quot;:&quot;a3d9f521-8f44-4c11-8eed-3140475dfacc&quot;,&quot;rotationInDays&quot;:90,&quot;lastRotationTimeUtcDay&quot;:20153,&quot;beaconEvtNumber&quot;:0,&quot;beaconUpdateDay&quot;:20153}</string>
+    <string name="56300709">{&quot;psIdValue&quot;:&quot;66109bc0-9e7e-4fcb-bfbd-a7fd131efc80&quot;,&quot;rotationInDays&quot;:-1,&quot;lastRotationTimeUtcDay&quot;:20153,&quot;beaconEvtNumber&quot;:0,&quot;beaconUpdateDay&quot;:20153}</string>
+    <string name="42196056">{&quot;psIdValue&quot;:&quot;4b5684fc-5f1f-4dda-84dc-968236b3d3b1&quot;,&quot;rotationInDays&quot;:7,&quot;lastRotationTimeUtcDay&quot;:20153,&quot;beaconEvtNumber&quot;:0,&quot;beaconUpdateDay&quot;:20153}</string>
+</map>

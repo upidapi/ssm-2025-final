@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="pref_use_phone_number_token_key" value="true" />
+    <int name="pref_wa_onboarding_eligible" value="0" />
+    <long name="onboarding_eligible_timestamp" value="1741350510376" />
+</map>

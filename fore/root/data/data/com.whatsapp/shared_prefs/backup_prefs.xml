@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="wa-db_backup_size" value="11080" />
+    <int name="stickers-db_backup_status" value="2" />
+    <long name="backup-settings_backup_size" value="263" />
+    <int name="commerce-db_backup_status" value="0" />
+    <long name="avatar-token_backup_size" value="0" />
+    <int name="gdrive_error_code" value="10" />
+    <long name="chatlock_backup_backup_size" value="0" />
+    <long name="stickers-db_backup_size" value="0" />
+    <long name="gdrive_next_prompt_for_setup_timestamp" value="1741868925677" />
+    <int name="chat-settings_backup_status" value="0" />
+    <int name="chatlock_backup_backup_status" value="3" />
+    <int name="payment-backgrounds-v2_backup_status" value="3" />
+    <long name="chat-settings_backup_size" value="1208" />
+    <boolean name="restore_second_verification_needed" value="false" />
+    <string name="backup_encryption_method">encryption_key_encrypted</string>
+    <long name="payment-backgrounds-v2_backup_size" value="0" />
+    <long name="commerce-db_backup_size" value="993" />
+    <long name="msg_backup_timestamp" value="1741268137818" />
+    <string name="msg_backup_result">0</string>
+    <int name="wa-db_backup_status" value="0" />
+    <int name="backup-settings_backup_status" value="0" />
+    <long name="stickers_backup_size" value="69566" />
+    <int name="avatar-token_backup_status" value="3" />
+    <long name="BACKUP_LAST_CHECK_TIMESTAMP" value="1741267729855" />
+    <int name="stickers_backup_status" value="0" />
+</map>

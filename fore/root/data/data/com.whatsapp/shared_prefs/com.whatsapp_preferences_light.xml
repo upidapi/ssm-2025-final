@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="backup_token_foa_file_timestamp" value="1741264136996" />
+    <boolean name="events_ps_phase3_migration_done" value="true" />
+    <boolean name="future_proof_processing_needed" value="false" />
+    <boolean name="saved_gcm_token_server_unreg" value="true" />
+    <long name="xmpp:lifecycle_worker_runtime_seconds" value="0" />
+    <boolean name="pref_wa_old_for_uc" value="false" />
+    <string name="previous_registration_screen">profile_photo</string>
+    <string name="self_lid">262560695758849@lid</string>
+    <string name="ka_key_store_static_alias_suffix">ff4aea4e-85ce-43fe-9e92-62f78737efd9</string>
+    <int name="reg_attempts_check_exist" value="1" />
+    <int name="autoconf_cf_type" value="-1" />
+    <boolean name="community_get_subgroups_sync_key" value="true" />
+    <string name="wam_client_errors">{&quot;26&quot;:22,&quot;27&quot;:1,&quot;28&quot;:2}</string>
+    <int name="c2dm_app_vers" value="250477000" />
+    <long name="ka_retried_ts" value="1741264126" />
+    <boolean name="md_messaging_enabled" value="true" />
+    <long name="phoneid_timestamp" value="1708433316852" />
+    <int name="connection_lc" value="2" />
+    <int name="flash_call_eligible" value="0" />
+    <boolean name="newsletter_subscriptions_fetched" value="true" />
+    <boolean name="tos_2016_opt_out_state" value="false" />
+    <int name="pref_gpia_prepare_call_count_in_last_interval" value="2" />
+    <long name="next_daily_cron_catchup" value="1741264962014" />
+    <int name="privacy_status" value="1" />
+    <long name="sticker_store_last_fetch_time" value="1741264062413" />
+    <int name="reg_skip_storage_perm" value="0" />
+    <boolean name="silent_auth_verification_status" value="false" />
+    <long name="pref_last_gpia_prepare_call_timestamp" value="1741264061396" />
+    <int name="privacy_setting_messages_brigading" value="0" />
+    <string name="app_install_source">google-play|unknown</string>
+    <string name="registration_failure_reason"></string>
+    <long name="ka_refresh_ts" value="1741264126" />
+    <int name="notification_channels_schema_version" value="2" />
+    <boolean name="newsletter_message_received" value="false" />
+    <long name="live_location_sharing_session_start_time" value="0" />
+    <boolean name="refresh_broadcast_lists" value="false" />
+    <boolean name="spam_banned" value="false" />
+    <boolean name="is_last_video_autoplay_mute" value="true" />
+    <long name="last_heartbeat_login" value="1741245390129" />
+    <int name="number_of_inactive_accounts" value="0" />
+    <long name="last_daily_event" value="1741265013529" />
+    <boolean name="pref_prefer_sms_over_flash" value="false" />
+    <boolean name="settings_verification_email_address_confirmed" value="false" />
+    <string name="backup_token_source">block_store</string>
+    <long name="dithered_last_signed_prekey_rotation" value="1740026003126" />
+    <string name="pref_autoconf_feo2_query_status">error_security_exception</string>
+    <int name="phonebook_null_cursor_count" value="0" />
+    <long name="adv_last_daily_check_ts" value="1741264136486" />
+    <string name="push:push_pkey_data">[2,&quot;8Z6u4CRWwarjmSoy7h\/szbTb7YqwNkKDTZaYQEcDo\/g&quot;,&quot;3dHyqkq6hiWdmSeTcza1Kw&quot;,&quot;Dw5h2A&quot;,&quot;oiRbcRZWdscLo7sxrgMkAw&quot;]</string>
+    <string name="self_display_name">+46∙∙∙∙∙∙∙60</string>
+    <long name="last_chat_list_wallpaper_logged_millis" value="1741264136867" />
+    <long name="md_initial_sync_estimate_bytes" value="0" />
+    <int name="pref_send_sms_eligibility" value="-1" />
+    <string name="cc">46</string>
+    <long name="registration_initialized_time" value="1741264136688" />
+    <string name="token_used_during_reg">4Xx/xyizByVpJK5y59vUSgRbczM</string>
+    <boolean name="report_unhealthy_module" value="true" />
+    <string name="ka_key_store_dynamic_alias_suffix">b4585852-a57a-4a44-8f65-f846302bc6e9</string>
+    <int name="pref_wa_old_eligibility" value="0" />
+    <string name="external_storage_type">scoped</string>
+    <boolean name="settings_verification_email_address_verified" value="false" />
+    <string name="encrypted_rid">ARd6zQ5VxmDtlemi2/zfZDCMT6G0PoTBNCbfc0UgW8j1gxGSl6yM3n+xxuUmOiv68T7vj0r2Bs+bX3lb</string>
+    <boolean name="underage_account_banned" value="false" />
+    <int name="autoconf_type" value="1" />
+    <int name="logins_with_messages" value="0" />
+    <int name="privacy_groupadd" value="0" />
+    <long name="phoneid_last_sync_timestamp" value="1741265013035" />
+    <string name="perf_device_id">a7eb1403-51b3-408d-a4fa-37df7c5f9241</string>
+    <int name="num_notification_channels_created" value="3" />
+    <long name="registration_success_time_ms" value="1741264136806" />
+    <string name="previous_registration_action">no_tap</string>
+    <int name="reg_backup_status_key" value="1" />
+    <long name="last_login_time" value="1741268272" />
+    <boolean name="archive_v2_enabled" value="true" />
+    <int name="pref_autoconf_verification_status" value="-1" />
+    <long name="ka_stanza_sent_ts" value="1741264126" />
+    <string name="backup_token_retrieval_error">success</string>
+    <boolean name="is_chrome_device_cached" value="false" />
+    <string name="sticker_store_etag">25a8e620ae300c8a7e4c0614f60f46ad</string>
+    <long name="wa_last_reminder_timestamp" value="1741264126411" />
+    <string name="token_used_for_migration">rO0ABXNyABpjb20ud2hhdHNhcHAudXRpbC5MUlVDYWNoZQAAAAS2bEDpAgABSQAKY2FjaGVMaW1pdHhyABdqYXZhLnV0aWwuTGlua2VkSGFzaE1hcDTATlwQbMD7AgABWgALYWNjZXNzT3JkZXJ4cgARamF2YS51dGlsLkhhc2hNYXAFB9rBwxZg0QMAAkYACmxvYWRGYWN0b3JJAAl0aHJlc2hvbGR4cD9AAAAAAAAMdwgAAAAQAAAAAXQADDQ2OjcwMDkyMzc2MHVyAAJbQqzzF/gGCFTgAgAAeHAAAAAqAAJHADKMlMZP101ViykhMS6gPgtppSRaXEMWNzMhsPgbZ2rJst/BR9PMeAEAAAAF</string>
+    <long name="xmpp:logout_worker_runtime_seconds" value="0" />
+    <boolean name="signal_protocol_store_is_new" value="false" />
+    <int name="privacy_online" value="0" />
+    <long name="client_version_upgrade_timestamp" value="1741264062374" />
+    <string name="web_contact_checksum">jpPR4x3X7YETOZ3K&#10;    </string>
+    <string name="my_current_status">Hey there! I am using WhatsApp.</string>
+    <boolean name="android.permission.POST_NOTIFICATIONS" value="true" />
+    <long name="push:push_pkey_generate_ts" value="1741268273240" />
+    <long name="live_location_sharing_session_total_time" value="0" />
+    <long name="last_app_open_timestamp" value="1741268356746" />
+    <boolean name="pref_flash_call_education_screen_displayed" value="false" />
+    <boolean name="is_ls_shown_during_reg" value="true" />
+    <long name="sticker_store_backoff_time" value="0" />
+    <long name="block_list_receive_time" value="1741264126662" />
+    <string name="last_datacenter">vll</string>
+    <boolean name="need_to_get_pre_key_digest" value="false" />
+    <boolean name="registration_biz_registered_on_device" value="false" />
+    <long name="ka_static_refresh_ts" value="1741264069" />
+    <long name="live_location_sharing_session_end_time" value="0" />
+    <int name="sticker_store_backoff_attempt" value="0" />
+    <boolean name="notify_new_message_for_archived_chats" value="false" />
+    <long name="backup_token_file_timestamp" value="1741264136993" />
+    <string name="settings_verification_email_address"></string>
+    <int name="privacy_profile_photo" value="0" />
+    <int name="privacy_last_seen" value="1" />
+    <int name="wa_dictionary_version" value="3" />
+    <boolean name="input_enter_send" value="false" />
+    <int name="privacy_calladd" value="0" />
+    <int name="more_sheep_random_number" value="728" />
+    <int name="number_of_process_starts" value="1" />
+    <string name="voice_message_transcription_model_download_last_status">NoWorkFound</string>
+    <string name="c2dm_reg_id">c6ZyqYtuSRWvroiT6DHToh:APA91bGBf3b7G1THb6t36a9bW7gUQ7GyrzsEAE_GM-r06cIVTCww6HjnbRE_X7CR5azMOFVUdhtSmai-4VM095v9iLO5LIlGhFYRD_GFdKbeRVLlZ7w5ByY</string>
+    <boolean name="read_receipts_enabled" value="true" />
+    <int name="am_referrer_fetching_random_number" value="9762" />
+    <int name="pref_email_otp_eligibility" value="-1" />
+    <string name="registration_jid">46700923760</string>
+    <string name="pref_autoconf_status">autoconf_server_enabled</string>
+    <string name="routing_info">CAkICA</string>
+    <long name="next_randomized_daily_cron" value="1741273499662" />
+    <boolean name="newsletter_my_reactions_fetched" value="true" />
+    <boolean name="reg_abprop_passkey_create_education_screen" value="true" />
+    <string name="phoneid_id">e6ba28b8-3085-4a98-afd1-83d402477ccc</string>
+    <int name="connection_sequence_attempts" value="0" />
+    <boolean name="new_jid" value="false" />
+    <string name="com.whatsapp.registration.RegisterPhone.mistyped_state">7</string>
+    <boolean name="reg_abprop_passkey_create" value="true" />
+    <long name="last_daily_cron" value="1741265014122" />
+    <int name="current_data_action_string_version" value="4" />
+    <int name="notification_channel_upgrade_version" value="1" />
+    <string name="ph">700923760</string>
+    <boolean name="pref_cuppy_sticker_pack_has_been_removed" value="true" />
+    <long name="spam_banned_expiry_timestamp" value="0" />
+    <boolean name="pref_deprecate_rc" value="true" />
+    <boolean name="wam_is_current_buffer_real_time" value="false" />
+</map>

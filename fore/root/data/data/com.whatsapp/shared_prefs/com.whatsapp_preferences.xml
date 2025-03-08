@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="server_props:hash">7a7775b1f36e874c4d63503dcff323ac8952fa1a8f9fae4cde849ea04eed0fcd</string>
+    <string name="ab_props:hash_v2">[2,&quot;yLBU1+3TAqF8a4DEVeHRy92ykLTk\/KkaE4zEmnmlt0fMVkJxfLtI2n0KtH4Y0sIlpMSTkHCXcI8LrEJZXXY02w&quot;,&quot;c6LSvEEea+Dhp\/ijME9jlQ&quot;,&quot;Uyg0ug&quot;,&quot;6j71\/qN2H+652zRLMeLWqQ&quot;]</string>
+    <int name="perform_sync_manager_version" value="3" />
+    <set name="ab_offline_props:offline_exposure_strings">
+        <string>enter_phone_number_device_id_android_universe|enter_phone_number_device_id_based_timer_android_experiment|control</string>
+        <string>prefill_phone_number_hint_universe_v2|prefill_phone_number_hint_experiment_v2|test</string>
+    </set>
+</map>
